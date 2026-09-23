@@ -1,0 +1,9 @@
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "framework": null,
+  "cleanUrls": true,
+  "rewrites": [
+    { "source": "/neev-ivory-3", "destination": "/index.html" },
+    { "source": "/neev-ivory-3.html", "destination": "/index.html" }
+  ]
+}
